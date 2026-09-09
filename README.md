@@ -25,23 +25,19 @@ This repository tracks a ground-up development process designed to master neural
 
 ### Mathematical Derivations & Notes
 
-### Mathematical Derivations & Notes
-
-<table>
-  <tr>
-    <td><img src="notes/notes_1.png" width="100%"/></td>
-    <td><img src="notes/notes_2.png" width="100%"/></td>
-  </tr>
-  <tr>
-    <td><img src="notes/notes_3.png" width="100%"/></td>
-    <td><img src="notes/notes_4.png" width="100%"/></td>
-  </tr>
-  <tr>
-    <td><img src="notes/notes_5.png" width="100%"/></td>
-    <td><img src="notes/notes_6.png" width="100%"/></td>
-  </tr>
-  <tr>
-    <td><img src="notes/notes_7.png" width="100%"/></td>
-    <td><img src="notes/notes_8.png" width="100%"/></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="notes/notes_1.png" width="45%"/>
+  <img src="notes/notes_2.png" width="45%"/>
+</p>
+<p align="center">
+  <img src="notes/notes_3.png" width="45%"/>
+  <img src="notes/notes_4.png" width="45%"/>
+</p>
+<p align="center">
+  <img src="notes/notes_5.png" width="45%"/>
+  <img src="notes/notes_6.png" width="45%"/>
+</p>
+<p align="center">
+  <img src="notes/notes_7.png" width="45%"/>
+  <img src="notes/notes_8.png" width="45%"/>
+</p>
