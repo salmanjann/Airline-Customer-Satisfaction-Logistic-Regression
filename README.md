@@ -25,19 +25,9 @@ This repository tracks a ground-up development process designed to master neural
 
 ### Mathematical Derivations & Notes
 
-<p align="center">
-  <img src="notes/notes_1.png" width="45%"/>
-  <img src="notes/notes_2.png" width="45%"/>
-</p>
-<p align="center">
-  <img src="notes/notes_3.png" width="45%"/>
-  <img src="notes/notes_4.png" width="45%"/>
-</p>
-<p align="center">
-  <img src="notes/notes_5.png" width="45%"/>
-  <img src="notes/notes_6.png" width="45%"/>
-</p>
-<p align="center">
-  <img src="notes/notes_7.png" width="45%"/>
-  <img src="notes/notes_8.png" width="45%"/>
-</p>
+| | |
+| :---: | :---: |
+| ![Page 1](notes/notes_1.png) | ![Page 2](notes/notes_2.png) |
+| ![Page 3](notes/notes_3.png) | ![Page 4](notes/notes_4.png) |
+| ![Page 5](notes/notes_5.png) | ![Page 6](notes/notes_6.png) |
+| ![Page 7](notes/notes_7.png) | ![Page 8](notes/notes_8.png) |
