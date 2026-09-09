@@ -27,19 +27,19 @@ This repository tracks a ground-up development process designed to master neural
 
 <table>
   <tr>
-    <td><img src="notes/notes_1.jpeg" width="300"/></td>
-    <td><img src="notes/notes_2.jpeg" width="300"/></td>
+    <td><img src="notes/notes_1.png" width="300"/></td>
+    <td><img src="notes/notes_2.png" width="300"/></td>
   </tr>
   <tr>
-    <td><img src="notes/notes_3.jpeg" width="300"/></td>
-    <td><img src="notes/notes_4.jpeg" width="300"/></td>
+    <td><img src="notes/notes_3.png" width="300"/></td>
+    <td><img src="notes/notes_4.png" width="300"/></td>
   </tr>
   <tr>
-    <td><img src="notes/notes_5.jpeg" width="300"/></td>
-    <td><img src="notes/notes_6.jpeg" width="300"/></td>
+    <td><img src="notes/notes_5.png" width="300"/></td>
+    <td><img src="notes/notes_6.png" width="300"/></td>
   </tr>
   <tr>
-    <td><img src="notes/notes_7.jpeg" width="300"/></td>
-    <td><img src="notes/notes_8.jpeg" width="300"/></td>
+    <td><img src="notes/notes_7.png" width="300"/></td>
+    <td><img src="notes/notes_8.png" width="300"/></td>
   </tr>
 </table>
